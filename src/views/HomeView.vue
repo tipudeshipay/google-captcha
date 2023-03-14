@@ -29,10 +29,10 @@ export default {
     },
     methods:{
         handleSuccess(){
-        
+            console.log('ok')
         },
         handleError(){
-        
+            console.log('cancel')
         }
     }
     
